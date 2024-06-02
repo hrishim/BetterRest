@@ -11,6 +11,7 @@
 		6C52B3322C0B551500A711D5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C52B3312C0B551500A711D5 /* ContentView.swift */; };
 		6C52B3342C0B551700A711D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C52B3332C0B551700A711D5 /* Assets.xcassets */; };
 		6C52B3372C0B551700A711D5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C52B3362C0B551700A711D5 /* Preview Assets.xcassets */; };
+		6CF1B8292C0C691200760501 /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 6CF1B8282C0C691200760501 /* SleepCalculator.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		6C52B3312C0B551500A711D5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6C52B3332C0B551700A711D5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6C52B3362C0B551700A711D5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6CF1B8282C0C691200760501 /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				6C52B32F2C0B551500A711D5 /* BetterRestApp.swift */,
 				6C52B3312C0B551500A711D5 /* ContentView.swift */,
+				6CF1B8282C0C691200760501 /* SleepCalculator.mlmodel */,
 				6C52B3332C0B551700A711D5 /* Assets.xcassets */,
 				6C52B3352C0B551700A711D5 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6C52B3322C0B551500A711D5 /* ContentView.swift in Sources */,
+				6CF1B8292C0C691200760501 /* SleepCalculator.mlmodel in Sources */,
 				6C52B3302C0B551500A711D5 /* BetterRestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
